@@ -20,9 +20,9 @@
 - [https://github.com/manpreet-rai/image-convert](https://github.com/manpreet-rai/image-convert)
 - [https://github.com/manpreet-rai/nitnem-db](https://github.com/manpreet-rai/nitnem-db)
 #### Other Projects
-- [https://github.com/manpreet-rai/leetcode_blind_75](https://github.com/manpreet-rai/leetcode_blind_75)
-- [https://github.com/manpreet-rai/ctci_cpp](https://github.com/manpreet-rai/ctci_cpp)
-- [https://github.com/manpreet-rai/algorithms-and-ds](https://github.com/manpreet-rai/algorithms-and-ds)
+- [https://github.com/manpreet-rai/leetcode_blind_75](https://github.com/manpreet-rai/leetcode_blind_75) (_WIP_)
+- [https://github.com/manpreet-rai/ctci_cpp](https://github.com/manpreet-rai/ctci_cpp) (_WIP_)
+- [https://github.com/manpreet-rai/algorithms-and-ds](https://github.com/manpreet-rai/algorithms-and-ds) (_WIP_)
 
 <!---
 manpreet-rai/manpreet-rai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
