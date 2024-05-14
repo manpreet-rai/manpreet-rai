@@ -21,6 +21,7 @@
 #### Games
 - [https://github.com/manpreet-rai/game-egg-catcher](https://github.com/manpreet-rai/game-egg-catcher)
 ### Utilities
+- [https://github.com/manpreet-rai/utils-colors](https://github.com/manpreet-rai/utils-colors)
 - [https://github.com/manpreet-rai/image-convert](https://github.com/manpreet-rai/image-convert)
 - [https://github.com/manpreet-rai/nitnem-db](https://github.com/manpreet-rai/nitnem-db)
 #### Other Projects
