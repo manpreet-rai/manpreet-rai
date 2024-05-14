@@ -16,6 +16,8 @@
 #### Mobile Apps
 - [https://github.com/manpreet-rai/app-granthsahib-android](https://github.com/manpreet-rai/app-granthsahib-android)
 - [https://github.com/manpreet-rai/app-nitnem-android](https://github.com/manpreet-rai/app-nitnem-android)
+- [https://github.com/manpreet-rai/app-figos-android](https://github.com/manpreet-rai/app-figos-android)
+- [https://github.com/manpreet-rai/app-figos-iOS](https://github.com/manpreet-rai/app-figos-iOS)
 ### Utilities
 - [https://github.com/manpreet-rai/image-convert](https://github.com/manpreet-rai/image-convert)
 - [https://github.com/manpreet-rai/nitnem-db](https://github.com/manpreet-rai/nitnem-db)
