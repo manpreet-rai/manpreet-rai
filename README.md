@@ -9,6 +9,7 @@
 #### Web Apps
 - [https://github.com/manpreet-rai/gurbanis-app](https://github.com/manpreet-rai/gurbanis-app)
 - [https://github.com/manpreet-rai/veterinary-vaccine](https://github.com/manpreet-rai/veterinary-vaccine)
+- [https://github.com/manpreet-rai/figos-web](https://github.com/manpreet-rai/figos-web)
 - [https://github.com/manpreet-rai/nitnem-api](https://github.com/manpreet-rai/nitnem-api)
 - [https://github.com/manpreet-rai/nanak-organic-foods](https://github.com/manpreet-rai/nanak-organic-foods)
 - [https://github.com/manpreet-rai/v1-manpreetrai-ca](https://github.com/manpreet-rai/v1-manpreetrai-ca)
